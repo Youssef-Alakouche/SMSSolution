@@ -1,0 +1,12 @@
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\bin\Debug\net8.0\SMSData.deps.json
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\bin\Debug\net8.0\SMSData.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\bin\Debug\net8.0\SMSData.pdb
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\refint\SMSData.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.pdb
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\ref\SMSData.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSData\obj\Debug\net8.0\SMSData.csproj.AssemblyReference.cache

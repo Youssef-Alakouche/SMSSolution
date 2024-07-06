@@ -1,0 +1,17 @@
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\bin\Debug\net8.0\SMSDomain.deps.json
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\bin\Debug\net8.0\SMSDomain.runtimeconfig.json
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\bin\Debug\net8.0\SMSDomain.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\bin\Debug\net8.0\SMSDomain.pdb
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\bin\Debug\net8.0\SMSData.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\bin\Debug\net8.0\SMSData.pdb
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.csproj.CopyComplete
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\refint\SMSDomain.dll
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.pdb
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\SMSDomain.genruntimeconfig.cache
+C:\Users\Youssef\Desktop\dotnet\SMSSoluction\SMSDomain\obj\Debug\net8.0\ref\SMSDomain.dll
