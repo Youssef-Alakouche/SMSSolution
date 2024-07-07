@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj": {}
+    "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj": {
+    "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj",
+        "projectUniqueName": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj",
         "projectName": "SMSData",
-        "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj",
+        "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj",
         "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\obj\\",
+        "outputPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config"

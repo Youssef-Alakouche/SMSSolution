@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNV+WV2uuDR2k46rtjW+WojrToSz9bcI5tEVdJ5+bcCoyHKbUwa5hkIXcHmxWvE1olCHqtoxCksud8YLFJe9ag==",
+  "dgSpecHash": "sSF+UqZrcOqhC7leEKeWx4fYAont1nlvnSJF1AMpzlynrNOYV1svvPMfHd08mLDwWmAlvXkD4B5PIzuPKHfhzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj",
+  "projectFilePath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youssef\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

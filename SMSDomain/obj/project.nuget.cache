@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUys8l5M4tPVY1SRI9E0kxDYWaWWPCLie3jd36lY4hpvkVxAlkdXX+imadmj6SE/7UfT3u1HX5qkQxP3txjI7w==",
+  "dgSpecHash": "lUlZhKRPYC1WacbwdpldQG0Mxkg33a2g9Ttbjlt+t/ZR8b6TfcPwp0VG1sznc4DsxCDaUbwt6CqNzZixL1djMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSDomain\\SMSDomain.csproj",
+  "projectFilePath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSDomain\\SMSDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youssef\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Youssef\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

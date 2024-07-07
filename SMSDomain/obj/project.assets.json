@@ -4122,11 +4122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSDomain\\SMSDomain.csproj",
+      "projectUniqueName": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSDomain\\SMSDomain.csproj",
       "projectName": "SMSDomain",
-      "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSDomain\\SMSDomain.csproj",
+      "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSDomain\\SMSDomain.csproj",
       "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSDomain\\obj\\",
+      "outputPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4141,8 +4141,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj": {
-              "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMSData\\SMSData.csproj"
+            "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj": {
+              "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMSData\\SMSData.csproj"
             }
           }
         }

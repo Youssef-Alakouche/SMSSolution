@@ -8129,11 +8129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMS.Test\\SMS.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMS.Test\\SMS.Test.csproj",
       "projectName": "SMS.Test",
-      "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMS.Test\\SMS.Test.csproj",
+      "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMS.Test\\SMS.Test.csproj",
       "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\SMS.Test\\obj\\",
+      "outputPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\SMS.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8148,8 +8148,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\StudentManagementSystem\\StudentManagementSystem.csproj": {
-              "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSoluction\\StudentManagementSystem\\StudentManagementSystem.csproj"
+            "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\StudentManagementSystem\\StudentManagementSystem.csproj": {
+              "projectPath": "C:\\Users\\Youssef\\Desktop\\dotnet\\SMSSolution\\StudentManagementSystem\\StudentManagementSystem.csproj"
             }
           }
         }

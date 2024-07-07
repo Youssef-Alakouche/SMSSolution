@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SMSData
-build_property.ProjectDir = c:\Users\Youssef\Desktop\dotnet\SMSSolution\SMSData\
+build_property.ProjectDir = C:\Users\Youssef\Desktop\dotnet\SMSSolution\SMSData\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
